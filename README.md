@@ -1,5 +1,18 @@
+<!-- ## technologies Icons 
+https://simpleicons.org/  -->
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 ### Hi there I'm Sujan👋    
+<!-- 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
+<br>
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
+[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
+<br>
+[![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AhmadSawalqeh)
+[![Codesandbox](https://img.shields.io/badge/Codesandbox-Ahmad%20Sawalqeh-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Ahmad-Sawalqeh)
+[![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
+[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh) -->
 
 <!-- <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about Arturs Smirnovs">
  -->
@@ -41,6 +54,9 @@
 
 
 [![Sujan-Murugesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sujan-Murugesh&theme=react-dark)](https://github.com/Sujan-Murugesh/github-readme-activity-graph)
+
+<!-- 
+[![Sujan-Murugesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sujan-Murugesh&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Sujan-Murugesh/github-readme-activity-graph) -->
 
 
 
