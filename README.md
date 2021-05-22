@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Sujan👋
 
 - 🌱 I’m currently learning at University of Ruhuna Sri Lanka.
 - 👯 I’m looking to collaborate on software projects.
