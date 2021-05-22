@@ -7,4 +7,28 @@
 - 😄 Pronouns: Sujan  & Call me : +94 76 7960709
 - ⚡ My Skills : Java, Python, C ,C#, C++, HTML, Php, javaScript, perl, shell, Dart, Kotlin,MySql,etc..
 
+<!-- ![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan-Murugesh)
+![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan-Murugesh&hide=contribs,prs)
+![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan-Murugesh&show_icons=true) -->
+
+![Sujan-Murugesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan-Murugesh&show_icons=true&theme=radical)
+
+
+<!--used languages  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&hide=javascript,html) <!--languahes --> 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&langs_count=10) -->
+<!-- compact languages card -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&layout=compact)
+
+<!-- working time 
+![Sujan-Murugesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sujan-Murugesh) -->
+
+
+
+
+
+
+
+
+
 
