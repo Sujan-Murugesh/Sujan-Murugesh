@@ -28,10 +28,13 @@ projects.
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-M.Sujan-gray?logo=codepen&logoColor=white&labelColor=black)](https://stackoverflow.com/users/14678127/m-sujan)
 [![Codesandbox](https://img.shields.io/badge/Codesandbox-Sujan-Murugesh?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Sujan-Murugesh)
 
-![Sujan-Murugesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan-Murugesh&show_icons=true&theme=radical)
+<!-- ![Sujan-Murugesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan-Murugesh&show_icons=true&theme=radical) -->
+ <a href="#Sujan-Murugesh-title">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Sujan-Murugesh&show_icons=true&title_color=fd428e&icon_color=18d26e&text_color=a8fdf6&bg_color=141321&border_color=ffffff" alt="Sujan-Murugesh" align="left" />
+</a>
 
  <a href="#Sujan-Murugesh-title">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&title_color=fd428e&text_color=a8fdf6&icon_color=18d26e&bg_color=141321&langs_count=8&layout=compact&border_color=ffffff" alt="Sujan-Murugesh"  />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&title_color=fd428e&text_color=a8fdf6&icon_color=18d26e&bg_color=141321&langs_count=8&layout=compact&border_color=ffffff" alt="Sujan-Murugesh" align="right" />
 </a><br>
 
 💻 **Languages and Tools:** 🛠️<br>
