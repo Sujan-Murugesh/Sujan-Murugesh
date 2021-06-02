@@ -1,10 +1,12 @@
 <!-- sujan.m.uor@gmail.com  ### Hi there I'm Sujan👋-->
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<h1 align='center'><samp><strong>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I am Sujan Murugesh BICT(hons.rd) UOR.LK</strong></samp></h1><h5>University of Ruhuna in Sri Lanka. Bachelor of Information and Communication Technology (Honours.read...).</h5>
+<h1 align='center'><samp><strong>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I am Sujan Murugesh BICT(hons.rd) UOR.LK</strong></samp></h1>
+
+<h5>University of Ruhuna in Sri Lanka. Bachelor of Information and Communication Technology (Honours.read...).</h5>
 <h3 align='center'><strong><a href="https://github.com/Sujan-Murugesh" target="_blank">Portfolio🌐</a></strong></h3>
 💻 Intrested 💙<p align='center'>Software developement| Full-stack developement| Web developement | Mobile Applicatiion developement</p>
-<p align='left'> 📫 Undergraduate
+<p align='left'> 📫Undergraduate <br>
 I am an excellent team player and also possess a
 positive attitude towards individual goals and
 also an organizational goal. Seeking a
@@ -19,31 +21,17 @@ projects.
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Sujan-Murugesh?label=Follow%20Me&style=social)](https://github.com/Sujan-Murugesh)
 <br>
 <br>
+[![Mail](https://img.shields.io/badge/Email-sujan.m.uor@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sujan.m.uor@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-SujanMurugesh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/sujan-murugesh/)
 [![Mail](https://img.shields.io/badge/Outlook-sujan_2017248@fot.ruh.ac.lk-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sujan_2017248@fot.ruh.ac.lk)
-[![Medium](https://img.shields.io/badge/MediumBlog-murugeshsujan-yellow?logo=Medium&logoColor=white&labelColor=black)](https://murugesh-sujan.medium.com/)
-<br>
+[![Medium](https://img.shields.io/badge/MediumBlog-murugeshsujan-white?logo=Medium&logoColor=white&labelColor=black)](https://murugesh-sujan.medium.com/)
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-M.Sujan-gray?logo=codepen&logoColor=white&labelColor=black)](https://stackoverflow.com/users/14678127/m-sujan)
-[![Codesandbox](https://img.shields.io/badge/Codesandbox-https://codesandbox.io/u/Sujan-Murugesh?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Sujan-Murugesh)
-<!-- [![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
-[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh) -->
-
-<!-- <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about Arturs Smirnovs">
- -->
-<!-- - 🌱 I’m currently learning at University of Ruhuna Sri Lanka.  
-- 👯 I’m looking to collaborate on software projects.
-- 📫 How to reach me: www.linkedin.com/in/sujan-murugesh  
-- 📧 sujan.m.uor@gmail.com  / murugeshsujan22@gmail.com
-- 😄 Pronouns: Sujan  & Call me : +94 76 7960709
-- ⚡ My Skills : Java, Python, C ,C#, C++, HTML, Php, javaScript, perl, shell, Dart, Kotlin,MySql,etc.. -->
-
-
-
-<!-- ![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan-Murugesh)
-![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan-Murugesh&hide=contribs,prs)
-![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan-Murugesh&show_icons=true) -->
+[![Codesandbox](https://img.shields.io/badge/Codesandbox-Sujan-Murugesh?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Sujan-Murugesh)
 
 ![Sujan-Murugesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan-Murugesh&show_icons=true&theme=radical)
+ <a href="#Sujan-Murugesh-title">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&title_color=fd428e&text_color=a8fdf6&icon_color=18d26e&bg_color=141321&langs_count=8&layout=compact&border_color=ffffff" alt="Sujan-Murugesh" align="right" />
+</a>
 
 💻 **Languages and Tools:** 🛠️<br>
 
@@ -72,6 +60,27 @@ projects.
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=ffffff&labelColor=0078D6)
 ![LinuxMint](https://img.shields.io/badge/-LinuxMint-000000?style=flat&logo=linuxmint&logoColor=ffffff&labelColor=0078D6)
 
+
+[![Sujan-Murugesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sujan-Murugesh&theme=react-dark)](https://github.com/Sujan-Murugesh/github-readme-activity-graph)
+ 
+ <!--============================================================================================================================================================-->
+ 
+<!-- <img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about Arturs Smirnovs">
+ -->
+<!-- - 🌱 I’m currently learning at University of Ruhuna Sri Lanka.  
+- 👯 I’m looking to collaborate on software projects.
+- 📫 How to reach me: www.linkedin.com/in/sujan-murugesh  
+- 📧 sujan.m.uor@gmail.com  / murugeshsujan22@gmail.com
+- 😄 Pronouns: Sujan  & Call me : +94 76 7960709
+- ⚡ My Skills : Java, Python, C ,C#, C++, HTML, Php, javaScript, perl, shell, Dart, Kotlin,MySql,etc.. -->
+
+
+
+<!-- ![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan-Murugesh)
+![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan-Murugesh&hide=contribs,prs)
+![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan-Murugesh&show_icons=true) -->
+
+ 
 <!-- ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff) -->
 <!-- ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger) -->
 <!-- ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3) -->
@@ -79,17 +88,13 @@ projects.
 <!-- ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff) -->
 <!-- ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699) -->
 <!-- ![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff) -->
-
 <!--used languages  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh)
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&hide=javascript,html) <!--languahes --> 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&langs_count=10) 
 <!-- compact languages card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&layout=compact)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&layout=compact) -->
 <!-- working time 
 ![Sujan-Murugesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sujan-Murugesh) -->
-
-
 <!-- Social Links
 <a href="https://www.facebook.com/artuurs.smirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
 <a href="https://twitter.com/artuurssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
@@ -100,15 +105,5 @@ projects.
 
 ![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3) -->
 
-
-[![Sujan-Murugesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sujan-Murugesh&theme=react-dark)](https://github.com/Sujan-Murugesh/github-readme-activity-graph)
- 
-
-
 <!-- 
 [![Sujan-Murugesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sujan-Murugesh&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Sujan-Murugesh/github-readme-activity-graph) -->
-
-
-
-
-
