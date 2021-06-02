@@ -81,8 +81,8 @@ projects.
 <!-- ![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff) -->
 
 <!--used languages  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&hide=javascript,html) <!--languahes --> 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&langs_count=10) 
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&hide=javascript,html) <!--languahes --> 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&langs_count=10) 
 <!-- compact languages card -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&layout=compact)
 
