@@ -82,7 +82,7 @@ projects.
 
 <!--used languages  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&hide=javascript,html) <!--languahes --> 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&langs_count=10) -->
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&langs_count=10) 
 <!-- compact languages card -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&layout=compact)
 
