@@ -35,7 +35,7 @@ projects.
 
  <a href="#Sujan-Murugesh-title">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-Murugesh&title_color=fd428e&text_color=a8fdf6&icon_color=18d26e&bg_color=141321&langs_count=8&layout=compact&border_color=ffffff" alt="Sujan-Murugesh" align="right" />
-</a><br>
+</a><br><br><br>
 
 💻 **Languages and Tools:** 🛠️<br>
 
