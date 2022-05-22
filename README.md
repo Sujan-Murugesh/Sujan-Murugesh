@@ -86,7 +86,7 @@ projects.
 ![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujan-Murugesh&show_icons=true) -->
 
  
-<!-- ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff) -->
+ ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff) 
 <!-- ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger) -->
 <!-- ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3) -->
 <!-- ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff) -->
