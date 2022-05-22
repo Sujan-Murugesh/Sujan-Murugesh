@@ -21,7 +21,7 @@ projects.
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Sujan-Murugesh?label=Follow%20Me&style=social)](https://github.com/Sujan-Murugesh)
 <br>
 <br>
-[![Mail](https://img.shields.io/badge/Email-sujan.m.uor@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:murugeshsujan22@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-murugeshsujan22@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:murugeshsujan22@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-SujanMurugesh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/sujan-murugesh/)
 [![Mail](https://img.shields.io/badge/Outlook-sujan_2017248@fot.ruh.ac.lk-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sujan_2017248@fot.ruh.ac.lk)
 [![Medium](https://img.shields.io/badge/MediumBlog-murugeshsujan-white?logo=Medium&logoColor=white&labelColor=black)](https://murugesh-sujan.medium.com/)
