@@ -39,7 +39,7 @@ projects.
 
 💻 **Languages and Tools:** 🛠️<br>
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)&#160;&#160;
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=ffffff&labelColor=0078D6)
 ![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=F05032&labelColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=F05032&labelColor=56d34d)
