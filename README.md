@@ -5,7 +5,7 @@
 
 <h5>University of Ruhuna in Sri Lanka. Bachelor of Information and Communication Technology (Honours.read...).</h5>
 <h3 align='center'><strong><a href="https://msujan.netlify.app/" >Portfolio🌐</a></strong></h3>
-💻 Intrested 💙<p align='center'>Software development| Full-stack development| Web development | Mobile Applicatiion development</p>
+💻 Intrested 💙<p align='center'>Frelancer | Web Developer | Mobile Developer | UI UX Designer</p>
 <p align='left'> 📫Undergraduate <br>
 I am an excellent team player and also possess a
 positive attitude towards individual goals and
