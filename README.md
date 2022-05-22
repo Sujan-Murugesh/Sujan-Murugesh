@@ -59,7 +59,7 @@ projects.
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)&#160;&#160;&#160;&#160;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)&#160;&#160;&#160;&#160;
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)&#160;&#160;&#160;&#160;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)&#160;&#160;&#160;&#160;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)&#160;&#160;&#160;&#160;<br/>
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)&#160;&#160;&#160;&#160;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=ffffff&labelColor=0078D6)&#160;&#160;&#160;&#160;
 ![LinuxMint](https://img.shields.io/badge/-LinuxMint-000000?style=flat&logo=linuxmint&logoColor=ffffff&labelColor=0078D6)&#160;&#160;&#160;&#160;
