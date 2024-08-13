@@ -3,7 +3,7 @@
 <img align='right' src='https://i.imgur.com/Obr89gH.gif' width='200'>
 <h1 align='center'><samp><strong>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I am Sujan Murugesh BICT(hons) UOR.LK</strong></samp></h1>   <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 
-<h5>University of Ruhuna in Sri Lanka. Bachelor of Information and Communication Technology (Honours.read...).</h5>
+<h5>Bachelor of Information and Communication Technology (Honours). University of Ruhuna in Sri Lanka. </h5>
 <h3 align='center'><strong><a href="https://msujan.netlify.app/" >Portfolio🌐</a></strong></h3>
 💻 Intrested 💙<p align='center'>Dynamics 365 CRM Developer | Frelancer | Web Developer | Mobile Developer | UI UX Designer</p>
 <p align='left'> 📫Dynamics 365 CRM Developer <br>
