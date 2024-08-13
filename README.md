@@ -5,17 +5,9 @@
 
 <h5>University of Ruhuna in Sri Lanka. Bachelor of Information and Communication Technology (Honours.read...).</h5>
 <h3 align='center'><strong><a href="https://msujan.netlify.app/" >Portfolio🌐</a></strong></h3>
-💻 Intrested 💙<p align='center'>Frelancer | Web Developer | Mobile Developer | UI UX Designer</p>
-<p align='left'> 📫Undergraduate <br>
-I am an excellent team player and also possess a
-positive attitude towards individual goals and
-also an organizational goal. Seeking a
-challenging position in an organization where I
-can use my talents and skills to grow and expand
-an organization as well as myself. To become a
-Software engineer where I have to use my skills
-and knowledge for the development of the
-projects.
+💻 Intrested 💙<p align='center'>Dynamics 365 CRM Developer | Frelancer | Web Developer | Mobile Developer | UI UX Designer</p>
+<p align='left'> 📫Dynamics 365 CRM Developer <br>
+I am a Dynamics 365 CRM Developer with 2.4 years of hands-on experience and a BICT honors degree from the University of Ruhuna, Sri Lanka. My expertise includes designing and customizing CRM solutions to optimize business processes and enhance customer relationships. As a collaborative team player, I approach both personal and organizational goals with a positive attitude. I am seeking a challenging role where I can contribute my skills to drive growth while continuing to develop professionally.
 
 
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Sujan-Murugesh?label=Follow%20Me&style=social)](https://github.com/Sujan-Murugesh)
